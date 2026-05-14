@@ -7,7 +7,6 @@ AI-powered stock market sentiment analysis dashboard built using Python, Streaml
 ![AI](https://img.shields.io/badge/AI-NLP-black)
 ![Finance](https://img.shields.io/badge/Domain-Finance-green)
 ![Project](https://img.shields.io/badge/Project-Active-success)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
